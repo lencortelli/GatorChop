@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chop a Gator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="play">Play</string>
+    <string name="instructions">Instructions</string>
+    <string name="high_scores">High Scores</string>
+    <string name="tomahawk_chop">Do the tomahawk chop!</string>
+    <string name="step_1">"STEP 1: Hold the phone in a horizontal orientation shown below. "</string>
+    <string name="step_2">"STEP 2: When you hear the main melody from the horns, do the tomhawk chop as shown below until the song ends."</string>
+    <string name="home">Home</string>
+    <string name="got_It">Got It!</string>
+    <string name="stop_music">Music Off</string>
+    <string name="play_music">Music On</string>
+    <string name="stop_sound_fx">Sound FX Off</string>
+    <string name="play_sound_fx">Sound FX On</string>
+    <string name="minute">minute</string>
+    <string name="wack_instruction">Tap on the screen where the gator is to wack it!</string>
+    <string name="miss_hit">A hit is worth 15 points and a miss is worth 0 points.</string>
+    <string name="time_limit">You get 30 seconds!</string>
+    <string name="PlayAgain">Play Again</string>
+    <string name="instruction">Chop as many gators as you can within 30 seconds.</string>
+    <string name="go_noles">Go Noles!</string>
+    
+
+</resources>
